@@ -126,7 +126,7 @@ public class PhysioClinicApp {
                     break;
 
                 case 8: // Exit
-                    System.out.println("******** Thank You for Using PhysioClinic Management System ***********");
+                    System.out.println("******** Thank You ***********");
                     System.out.println("Exiting...");
                     scanner.close();
                     System.exit(0);
